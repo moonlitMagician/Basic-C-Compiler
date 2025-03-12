@@ -1,5 +1,4 @@
-A Larger Scale project building a compiler entirely in C - minimizing other libraries that i would impliment
-This would eventually lead to me making a fully turing complete, procedueral programming language
+Simple mathematical Compiler built in C
 
 0.1:
  - Implimented Abstract Syntax Tree
